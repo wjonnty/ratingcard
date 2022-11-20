@@ -1,0 +1,15 @@
+.rating-box{
+    display: flex;
+    width: 700px;
+    background-color: var(--main-bg-color);
+    flex-direction: column;
+    border-radius: 35px;
+    padding:60px;
+    box-shadow: 0px 8px 24px rgba(0, 0, 0, 0.507);
+}
+
+
+.rating-box.active{
+    background-color: rgb(37, 32, 32);
+    
+}

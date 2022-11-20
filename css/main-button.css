@@ -1,0 +1,13 @@
+.main-button{
+    background-color: var(--button-color);
+    border: none;
+    border-radius: 20px;
+    height: 80px;
+    width: 100%;
+    cursor: pointer;
+   
+}
+
+.main-button:hover{
+    background-color: var(--button-hover-color);
+}

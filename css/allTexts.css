@@ -1,0 +1,10 @@
+.main-title{
+    font-size: 3rem;
+    margin-bottom: 12px;
+    color: var(--title-color);
+}
+
+.subtext{
+    color: var(--subtext-color);
+    margin-bottom: 48px;
+}

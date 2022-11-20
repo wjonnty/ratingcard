@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color:var(--text-color);
+    font-size: 18px;
+}
+
+
+:root{
+    --main-bg-color:#504d63;
+    --hover-color:#A668B0;
+    --radio-color:#AB8BB0;
+    --button-color:#53663E;
+    --button-hover-color:#8CB362;
+    --title-color:#F1C7FC;
+    --subtext-color:#818181;;
+    --text-color:#19191a;;
+
+    
+
+}
+
